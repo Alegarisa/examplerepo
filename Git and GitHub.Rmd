@@ -5,11 +5,14 @@ date: "October 17, 2018"
 output: html_document
 ---
 
+
+# never ever go inside the .git folder. that folder is what tracks all the commits made. 
+
+# always pull the earliest version of project and when done, push the projecy.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-# never ever go inside the .git folder. that folder is what tracks all the commits made. 
 
 
 
