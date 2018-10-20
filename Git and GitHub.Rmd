@@ -8,7 +8,7 @@ output: html_document
 
 # never ever go inside the .git folder. that folder is what tracks all the commits made. 
 
-# always pull the earliest version of project and when done, push the projecy.
+# always pull the earliest version of project and when done, push the project.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
